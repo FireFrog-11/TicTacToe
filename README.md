@@ -29,7 +29,7 @@ This is a small project I created using **Unity Netcode for GameObjects** to cre
 ## Other Info
 - The game is only supported on **Windows**
 - This will be the **final release of the game**, there will not be any future updates or bug fixes
-- Licensed under the [MIT license](LICENSE.md)
+- Licensed under the [MIT license](LICENSE)
 
 
 ## Built Using
